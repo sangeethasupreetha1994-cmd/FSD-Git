@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background: violet;
+}
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(9, 43, 3);
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: chartreuse;
+    color: blanchedalmond;
+    border: none;
+    outline: none;
+    font-size: 2rem;
+    margin: 10px 100px;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
